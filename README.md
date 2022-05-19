@@ -27,19 +27,19 @@ Users should be able to:
 
 ### Screenshot
 
-1. Desktop Design:
+#### Desktop Design:
 ![](./designs/Desktop_Design.png)
 
-2. Active State:
+#### Active State:
 ![](./designs/Desktop_Design_Active_state.png)
 
-3. Mobile Design:
+#### Mobile Design:
 ![](./designs/Mobile_Design.png)
 
-4. Mobile Desing Collapsed Menu
+#### Mobile Desing Collapsed Menu
 ![](./designs/Mobile_Design_Menu_collapsed.png)
 
-5. Mobile Design Expanded Menu
+#### Mobile Design Expanded Menu
 ![](./designs/Mobile_Design_Menu_expanded.png)
 
 ### Links
